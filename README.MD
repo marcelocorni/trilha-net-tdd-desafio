@@ -2,6 +2,5 @@
 
 ### Projeto "Batalha Monstro" desenvolvido em C# para aplicar os conceitos de TDD lecionados no Bootcamp da DIO
 
+**Jogo de batalha entre monstros**
 
-
-"# trilha-net-tdd-desafio" 
